@@ -22,4 +22,4 @@ jobs:
       with:
         name: UEFN Unlocker
         path: build/UEFN-Unlocker.dll
-        if-no-files-found: error
+        if-no-files-found: error        
